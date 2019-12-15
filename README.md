@@ -1,11 +1,14 @@
 # Live News Web App
 
 This live news web application is created using Angular JS and Material Design. The application fetches real time news using NEWS API and renders the content using material design.
+
 NEWS API - [https://newsapi.org/](https://newsapi.org/)
+
 This application is created with the help of Rachid Sakara's [blog](https://www.smashingmagazine.com/author/rachid-sakara/).
-Home Page
+
+- Home Page
 ![Home Page](https://github.com/dishappatel/live-news-app/raw/master/screenshots/mainpage.png)
-Menu bar
+- Menu bar
 ![Menu bar](https://github.com/dishappatel/live-news-app/raw/master/screenshots/menubar.png)
 
 # Pre-requisites
